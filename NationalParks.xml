@@ -14,18 +14,6 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
-    <Name>Yellowstone</Name>
-    <Phone>307-344-7381</Phone>
-    <Address NearestAirport="BZN">
-      <Number>2</Number>
-      <Street>North Gate</Street>
-      <City>Yellowstone</City>
-      <State>WY</State>
-      <Zip>82190</Zip>
-    </Address>
-  </NationalPark>
-
   <NationalPark>
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
@@ -35,6 +23,18 @@
       <City>Yosemite</City>
       <State>CA</State>
       <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="BZN">
+      <Number>2</Number>
+      <Street>North Gate</Street>
+      <City>Yellowstone</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
     </Address>
   </NationalPark>
 
