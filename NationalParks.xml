@@ -50,10 +50,9 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
-    <Phone>207-288-8832</Phone>
     <Address NearestAirport="BGR">
       <Number>20</Number>
       <Street>McFarland Hill Dr</Street>
@@ -63,7 +62,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.9">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
     <Address NearestAirport="FCA">
@@ -75,7 +74,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.9">
+  <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
     <Address NearestAirport="DEN">
@@ -87,7 +86,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
     <Address NearestAirport="CNY">
@@ -99,7 +98,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.6">
+  <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
     <Address NearestAirport="PSP">
@@ -111,7 +110,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.7">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
     <Address NearestAirport="SEA">
