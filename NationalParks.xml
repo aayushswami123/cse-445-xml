@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/aayushswami123/cse-445-xml/main/NationalParks.xsd">
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
@@ -22,7 +22,7 @@
     <Address NearestAirport="FAT">
       <Number>9001</Number>
       <Street>Village Dr</Street>
-      <City>Yosemite</City>
+      <City>Yosemite Valley</City>
       <State>CA</State>
       <Zip>95389</Zip>
     </Address>
@@ -33,7 +33,7 @@
     <Phone>307-344-7381</Phone>
     <Address NearestAirport="BZN">
       <Number>2</Number>
-      <Street>North Gate</Street>
+      <Street>North Gate Road</Street>
       <City>Yellowstone</City>
       <State>WY</State>
       <Zip>82190</Zip>
